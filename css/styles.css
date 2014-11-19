@@ -13,3 +13,10 @@ body{
 .featuredImg{
 	margin-bottom : 15px;
 }
+
+#colouredblock{
+    background-color:red;
+    color:white;
+    text-align:left;
+    padding:25px;
+}
